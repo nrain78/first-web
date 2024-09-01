@@ -1,0 +1,37 @@
+h1 {
+   margin-left: 50px;
+    color: rgb(49, 90, 9);
+}
+.Signal {
+    background-color: black;
+    height: 260px;
+    width: 120px;
+    border-radius: 10px;
+    margin: auto;
+    
+}
+.color-red {
+    background-color: red;
+   border-radius: 50%;
+    width: 60px;
+    height: 70px;
+   margin-left: 30px;
+}
+.color-yellow {
+    border-radius: 50%;
+    width: 60px;
+    height: 70px;
+   margin-left: 30px;
+  margin-top: 20px;
+   background-color: yellow;
+  
+}
+.color-green {
+    border-radius: 50%;
+    width: 60px;
+    height: 70px;
+   margin-left: 30px;
+   margin-top: 20px;
+  
+   background-color:green;
+}
