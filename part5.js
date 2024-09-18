@@ -75,3 +75,22 @@ while (true) {
     // }
 
 }
+// -----------------assigment no 5---------------
+let dice = Math.floor(Math.random() * 6) + 1;
+ console.log(dice);
+ // ------- qno 2------------
+ let cars = {
+    name : "APv",
+    model : "Latest",
+    color : "white",
+ }
+ console.log(cars.name);
+ // --------------------------
+ const Person = {
+    name: "Jane Doe",
+    age: 21,
+    city: "New Jersey",
+    };
+    Person.city = "New York";
+    Person.country = "United States";
+    console.log(Person);
